@@ -1,3 +1,7 @@
 My understanding of software quality assurance
 
-SQA is to establish a set of plan, a systematic approach to management, to guarantee standard, procedures, practices and methods to develop can correctly be used by all project. It is based on the software products and activities to review and audit to verify software is up to standard. Software quality assurance group at the beginning of the project together to participate in the establishment of plans, standards and procedures. These will make the software project meet the policy requirements.
+SQA is to establish a set of plan, a systematic approach to management, to guarantee standard, procedures, practices and
+methods to develop can correctly be used by all project. It is based on the software products and activities to review and
+audit to verify software is up to standard. Software quality assurance group at the beginning of the project together to 
+participate in the establishment of plans, standards and procedures. These will make the software project meet the policy
+requirements.
