@@ -1,0 +1,16 @@
+Form methods
+
+Formal methods  can help  software or hardware so that to validate it reach its requirement. They are based on formal 
+program and provide a high level of insurance . Otherwise, they are really costly in resources. 
+
+Model checking
+
+Model checking consists of three parts:
+ Based upon the proposition temporal logic specification language；
+ Authentication system indicates the encoding method is the state machine ；
+Authentication algorithm for intelligent search of the state space to determine specification is true or false. 
+If the specification is not implemented, the model test can give a counterexample.
+
+It need to consider increasing efficiency and reducing memory space requirements, in addition, studies to reduce the need
+to verify the nature of the model itself or complexity, there are different types of main methods abstract slicing model 
+decomposition, validation nature.
