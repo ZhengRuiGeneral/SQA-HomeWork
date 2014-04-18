@@ -1,0 +1,40 @@
+comparisons between testing and other QA alternatives
+
+
+
+Testing vs. Formal verification
+
+    Tesing is important link in development process
+    Different development phases
+    
+
+Testing vs. Inspection
+    
+    Existence of the implemented product
+    
+    Levels of quality/defects
+    
+    Static vs. dynamic defects
+
+    Localized vs. interconnected defects
+
+    Combined approaches
+    
+    Phases and transitions
+    
+    Inspection of testing entities/processes
+    
+
+Testing vs. Preventive actions
+
+    Different applicability to maintenance
+    
+    Objects QA activities applied on different things: executable code vs dev. activities
+
+    Different development phases: testing phase and later vs defect prevention on 
+
+    General expertise levels: low vs high
+
+    Problem or defect types:dynamic failures & related faults VS. negating causes or pre-conditions to pervasive problems
+   
+
