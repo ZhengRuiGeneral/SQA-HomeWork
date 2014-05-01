@@ -1,21 +1,47 @@
-SQA is very important,it is to establish a set of plan, a systematic approach to management, to guarantee standard, procedures, practices and methods to develop can correctly be used by all project. It is based on the software products and activities to review and audit to verify software is up to standard. Software quality assurance group at the beginning of the project together to participate in the establishment of plans, standards and procedures. These will make the software project meet the policy requirements.So in the software development phase, the testing can guarantee the quality of the software, and constantly improve the performance of software, and so on.
+SQA is very important,it is to establish a set of plan, a systematic approach to management, to guarantee standard,procedures,
+practices and methods to develop can correctly be used by all project. It is based on the software products and activities to 
+review and audit to verify software is up to standard. Software quality assurance group at the beginning of the project 
+together to participate in the establishment of plans, standards and procedures. These will make the software project meet the
+policy requirements.So in the software development phase, the test can guarantee the quality of the software, and constantly
+improve the performance of software, and so on.
 
-As we all know,the quality of the product will be decided by the customer attitude toward the product,so consumers are satisfied by producers throught SQE.Software Quality Assurance's goal is to develop an acceptable software product,in another word,the consumer should accept it.
+As we all know,the quality of the product will be decided by the customer attitude toward the product,so consumers are 
+satisfied by producers throught SQE.Software Quality Assurance's goal is to develop an acceptable software product,in 
+another word,the consumer should accept it.
 
-How to ensure the quality of a software system?Testing is the part of the QA,so the quality assurance should focus on testing.Software testing is the most important thing from the customer's needs, the system issues sooner found that the lower the cost to correct the destructive smaller, so the system before the release of the system to be as much of a problem to find out , which means that there are plans.Software testing is generally divided into four steps:
+How to ensure the quality of a software system?Testing is the part of the QA,so the quality assurance should focus on 
+testing.Software testing is the most important thing from the customer's needs, the system issues sooner found that the 
+lower the cost to correct the destructive smaller, so the system before the release of the system to be as much of a 
+problem to find out , which means that there are plans.Software testing is generally divided into four steps:
 
-（1）Unit testing (also called module testing): For the basic unit of software design - program modules, correctness inspection tests. The purpose is to find the individual units within the various errors that may exist. Unit testing procedures need to depart from the internal structure of test cases, multiple modules can be parallel, independently tested;
+1.Unit testing (also called module testing): For the basic unit of software design - program modules, correctness inspection 
+tests. The purpose is to find the individual units within the various errors that may exist. Unit testing procedures need 
+to depart from the internal structure of test cases, multiple modules can be parallel, independently tested;
 
-(2) integration testing (also known as the joint test): Based on unit testing, between all the 
-modules required by the design of integrated tests to examine the overall design of the interface design problems between modules, the module the mutual influence of the upper module presence of various errors and global data structure on the system and so on.
+2.integration testing (also known as the joint test): Based on unit testing, between all the modules required by the design 
+of integrated tests to examine the overall design of the interface design problems betweenmodules, the module the mutual 
+influence of the upper module presence of various errors and global data structure on the system and so on.
 
-（3）confirmation test : Are the major functionality and performance testing software requirements specification is consistent with the provisions. 
+3.confirmation test : Are the major functionality and performance testing software requirements specification is consistent 
+with the provisions. 
 
-（4）System testing: The software system as an element into the whole actual computer systems, and computer hardware and other software, the use of personnel and other system elements combine to carry out comprehensive testing under actual use conditions.
+4.System testing: The software system as an element into the whole actual computer systems, and computer hardware and other 
+software, the use of personnel and other system elements combine to carry out comprehensive testing under actual use 
+conditions.
 
-How to test more fully, how to conduct the test case design, software testing is a key technology. Try to use fewer test cases to test the program in a collection of more potential errors.There are a variety of testing techniques, the usual practice is to design a basic test program with a black box method, and then the white box method to add some programs.
+How to test more fully, how to conduct the test case design, software testing is a key technology. Try to use fewer test 
+cases to test the program in a collection of more potential errors.There are a variety of testing techniques, the usual 
+practice is to design a basic test program with a black box method, and then the white box method to add some programs.
 
-Black box testing method the program as a black box, without regard to the execution of the program internally, focusing on external characteristics, tested on an interface, only consider the input and output can correspond with the requirements specification, whether the correct input receiver, the output can get the right result. Also known as data-driven or an input / output driver testing, and functional testing.
+Black box testing method the program as a black box, without regard to the execution of the program internally, focusing on 
+external characteristics, tested on an interface, only consider the input and output can correspond with the requirements 
+specification, whether the correct input receiver, the output can get the right result. Also known as data-driven or an 
+input / output driver testing, and functional testing.
 
-Users concerned about the software product meets the requirements of the functional and performance requirements, the software runs is reliable, easy to learn whether, easy to use, whether there is a higher operating efficiency, can migrate from one environment to another environment and other issues. Software developers should not only develop to meet the quality requirements of the final product, but also pay attention to the quality of the software development process at every stage.Strengthening quality management, should take effective measures against all the various factors that may affect software quality management and control to enhance the quality of decisions.
+Users concerned about the software product meets the requirements of the functional and performance requirements, the 
+software runs is reliable, easy to learn whether, easy to use, whether there is a higher operating efficiency, can migrate 
+from one environment to another environment and other issues. Software developers should not only develop to meet the 
+quality requirements of the final product, but also pay attention to the quality of the software development process at 
+every stage.Strengthening quality management, should take effective measures against all the various factors that may 
+affect software quality management and control to enhance the quality of decisions.
 I think the above way can guarantee the quality of the software.
